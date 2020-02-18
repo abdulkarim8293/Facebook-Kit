@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook Kit</string>
+
+    <string name="facebook_app_id">230160318151848</string>
+    <string name="fb_login_protocol_scheme">fb230160318151848</string>
+
+</resources>
